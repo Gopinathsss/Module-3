@@ -26,6 +26,8 @@ else:
 ```
 
 ## Output
-![Uploading image.png…]()
+<img width="731" height="155" alt="image" src="https://github.com/user-attachments/assets/47dc26bb-5da1-4e19-803f-df98ba612e71" />
+
 
 ## Result
+we got the successful output
